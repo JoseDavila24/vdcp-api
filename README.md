@@ -64,7 +64,7 @@ vdcp-api/
 
 ## Referencia del API
 
-La especificación completa del API se encuentra en [`oas-vdcp-v1.yaml`](./oas-vdcp-v1.yaml).
+La especificación completa del API se encuentra en .
 
 ## Ejecución Local
 
@@ -77,4 +77,3 @@ La especificación completa del API se encuentra en [`oas-vdcp-v1.yaml`](./oas-v
 ```
 
 La aplicación estará disponible en: `http://localhost:8080/api/v1`
-```
